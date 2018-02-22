@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="24px" viewBox="0 0 23 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/service/icon_service_suggest</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="控件/悬浮/客服·反馈" transform="translate(-31.000000, -196.000000)">
+            <g id="icon/service/icon_service_suggest" transform="translate(30.000000, 196.000000)">
+                <rect id="Rectangle-34" x="0" y="0" width="24" height="24"></rect>
+                <path d="M22,7 L22,21 C22,22.1045695 21.0050772,23 19.7777778,23 L4.22222222,23 C2.99492278,23 2,22.1045695 2,21 L2,3 C2,1.8954305 2.99492278,1 4.22222222,1 L16.4444444,1" id="Rectangle-3" stroke="#353535" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"></path>
+                <rect id="Rectangle" fill="#353535" fill-rule="evenodd" x="5" y="8" width="6" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-Copy" fill="#353535" fill-rule="evenodd" x="5" y="14" width="11" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-Copy-2" fill="#353535" fill-rule="evenodd" transform="translate(18.656854, 5.156854) rotate(-45.000000) translate(-18.656854, -5.156854) " x="11.6568542" y="4.65685425" width="14" height="1" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
